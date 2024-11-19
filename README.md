@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer specializing in web development.
+I'm a software engineer specializing in web applications.
 
 TechStack - JavaScript, TypeScript, React.js, Next.js, Node.js
 
