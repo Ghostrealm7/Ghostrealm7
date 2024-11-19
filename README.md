@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a software engineer specializing in web development.
+
+TechStack - JavaScript, TypeScript, React.js, Next.js, Node.js
+
 [![roadmap.sh](https://roadmap.sh/card/tall/664b242ebc68b74d9bf1eb60?variant=dark)](https://roadmap.sh)
 <!--
 **Ghostrealm7/Ghostrealm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
