@@ -1,10 +1,10 @@
-## ✨Hey, I'm Javed!
+## Hey, I'm Javed!
 
-⚡I'm a software engineer specializing in web applications.
+ I'm a software engineer specializing in web applications.
 
-⚡Check out my portfolio website - www.example.com
+ Check out my portfolio website - www.example.com
 
-## ✨TechStack
+## ⚡TechStack
 
 ## <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="87" height="87" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="87" height="87" /></div>
 
@@ -12,6 +12,7 @@
 
 <!--
 [![roadmap.sh](https://roadmap.sh/card/tall/664b242ebc68b74d9bf1eb60?variant=dark)](https://roadmap.sh)
+skill icons - https://github.com/tandpfun/skill-icons?tab=readme-ov-file
 
 **Ghostrealm7/Ghostrealm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
