@@ -1,10 +1,10 @@
-## Hello, I'm Javed!👋
+## ✨Hey, I'm Javed!
 
 ⚡I'm a software engineer specializing in web applications.
 
 ⚡Check out my portfolio website - www.example.com
 
-## TechStack
+## ✨TechStack
 
 ## <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="87" height="87" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="87" height="87" /></div>
 
